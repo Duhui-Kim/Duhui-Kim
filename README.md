@@ -1,4 +1,5 @@
 # :computer: Duhui's Github
+![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dadada0228)
 
 ## 	:rocket: Tech Stack 
 
