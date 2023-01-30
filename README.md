@@ -1,5 +1,5 @@
 # :computer: Duhui's Github
-![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dadada0228)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dadada0228)](https://solved.ac/dadada0228/)
 
 ## 	:rocket: Tech Stack 
 
