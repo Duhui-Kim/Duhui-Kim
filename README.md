@@ -1,7 +1,12 @@
 # :computer: Duhui's Github
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dadada0228)](https://solved.ac/dadada0228/)
 
-## 	:rocket: Tech Stack 
+## :rocket: Algorithm 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dadada0228)](https://solved.ac/dadada0228/)
+<br>
+<br>
+
+## :zap: Tech Stack 
+  <div align="center"></div>
 
 <p>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>&nbsp
@@ -11,13 +16,14 @@
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=Vue.js&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/MySql-4479A1?style=flat&logo=MySql&logoColor=white"/>&nbsp
-</p>
+</p><br>
 
-<div align=center>
-   <h3>GitHub</h3>
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Duhui-Kim&layout=compact"><br><br>
+## :speech_balloon: GitHub
+<p align>
+  <div align="center"></div>
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Duhui-Kim&layout=compact"><br>
    <img src="https://github-readme-stats.vercel.app/api?username=Duhui-Kim&show_icons=true">
-</div>
+</p>
 
 
 
