@@ -13,6 +13,11 @@
   <img src="https://img.shields.io/badge/MySql-4479A1?style=flat&logo=MySql&logoColor=white"/>&nbsp
 </p>
 
+<div align=center>
+   <h3>GitHub</h3>
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Duhui-Kim&layout=compact"><br><br>
+   <img src="https://github-readme-stats.vercel.app/api?username=Duhui-Kim&show_icons=true">
+</div>
 
 
 
