@@ -29,3 +29,7 @@
 ## 📞 Contact
 
 - e-mail : dadada022863@gmail.com
+
+
+
+![snake gif](https://github.com/Duhui-Kim/Duhui-Kim/blob/output/github-contribution-grid-snake.svg)
