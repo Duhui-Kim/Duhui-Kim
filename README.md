@@ -27,5 +27,5 @@
 
 
 ## 📞 Contact
-
+- blog : https://dadada0228.tistory.com/
 - e-mail : dadada022863@gmail.com
